@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi 👋 My name is Aliasghar Hosseini Bagheri
+================================
 
-<!--
-**aliasgharHbagheri/aliasgharHbagheri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fron-end Developer
+-----------------
 
-Here are some ideas to get you started:
+### Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwindcss,react,firebase)](https://skillicons.dev)
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/aliasgharhbagheri" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://twitter.com/aliasgharh1381" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
