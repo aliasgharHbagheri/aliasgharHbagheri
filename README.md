@@ -1,4 +1,4 @@
-Hi 👋 My name is Aliasghar Hosseini Bagheri
+Hi 👋 My Name Is Aliasghar Hosseini Bagheri
 ================================
 
 Front-end Developer
